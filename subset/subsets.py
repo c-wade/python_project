@@ -9,9 +9,6 @@ subsets.py is a famous LeetCode Medium problem
 
 
 def main():
-    """
-    LeetCode Medium Problem
-    """
     list_sub_lists([1, 2, 3, 4])
 
 

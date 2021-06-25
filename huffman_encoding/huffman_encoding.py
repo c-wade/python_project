@@ -4,8 +4,6 @@ Name: Wade Chao
 -----------------------------------
 This program demonstrates the idea of zipping/unzipping
 through the algorithm of Huffman Encoding.
-We will be using all of the important concepts
-we learned today to complete this hugh project.
 """
 
 from ds import Tree, PriorityQueue, ListNode
