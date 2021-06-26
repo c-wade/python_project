@@ -43,19 +43,19 @@ This program demonstrates the idea of zipping & unzipping through the algorithm 
 To find out if the string is palindrome.
 
 
-- **priority_queue**
+- **priority_queue**  
 Use python list and linked list to implement a priority queue.
 
 
-- **recursion**
+- **recursion**  
 Solve problems in recursive method.
 
 
-- **subset**
+- **subset**  
 Get all subset from a list by calling a recursive function.
 
 
-- **tree**
+- **tree**  
 Introduce the basic concepts for binary trees.
 
 
