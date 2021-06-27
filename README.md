@@ -23,7 +23,7 @@ This repository holds some interesting simple programs with different topics lik
 - **boggle_game**  
   A solver of game Boggle.  
   [What is Boggle game?](https://en.wikipedia.org/wiki/Boggle)  
-  [Demo video](https://drive.google.com/file/d/1y3Mi3RNpH-a5lXaZVvDFWRkMl6iIQafA/view?usp=sharing)
+  [Demo Video](https://drive.google.com/file/d/1y3Mi3RNpH-a5lXaZVvDFWRkMl6iIQafA/view?usp=sharing)
 
 
 - **breakout_game**  
@@ -33,6 +33,7 @@ This repository holds some interesting simple programs with different topics lik
 
 - **data_visualization**  
   This program arranges the data of baby names ranking from 1900 to 2010 and displays the statistical data with line char  
+  [Demo Video](https://drive.google.com/file/d/1P8nYnClraNfHXDeXxAwf59B3fniKoKIg/view?usp=sharing)
   Data sources: https://www.ssa.gov/OACT/babynames/
 
   
@@ -54,7 +55,7 @@ This repository holds some interesting simple programs with different topics lik
 
 - **image_processing**  
   - **blur**: Blur the image
-  - **photoshop**: Remove people in the photos
+  - **pedestrian_removing**: Remove pedestrians in the photos [Demo Video](https://drive.google.com/file/d/1BMOBX9Eb5QkP5gfB4GcUWVEbEOaWmAhI/view?usp=sharing)
 
 
 - **palindrome**  

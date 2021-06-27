@@ -1,22 +1,22 @@
 """
-File: photoshop.py
+File: pedestrian_removing.py
 Author: Wade Chao
 Description: Remove people in the pictures and get pretty photos.
 Dependencies: SimpleImage, Pillow
 ----------------------------------------------
 !!IMPORTANT!!
-To run the program, open the terminal and get to the directory of this folder, input:
+To run the program, open the terminal and navigate to the directory, input:
 - Mac
-1. python3 photoshop.py clock-tower
-2. python3 photoshop.py hoover
-3. python3 photoshop.py math-corner
-4. python3 photoshop.py monster
+1. python3 pedestrian_removing.py clock-tower
+2. python3 pedestrian_removing.py hoover
+3. python3 pedestrian_removing.py math-corner
+4. python3 pedestrian_removing.py monster
 
 - Windows
-1. py photoshop.py clock-tower
-2. py photoshop.py hoover
-3. py photoshop.py math-corner
-4. py photoshop.py monster
+1. py pedestrian_removing.py clock-tower
+2. py pedestrian_removing.py hoover
+3. py pedestrian_removing.py math-corner
+4. py pedestrian_removing.py monster
 """
 
 import os
