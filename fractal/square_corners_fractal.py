@@ -1,5 +1,5 @@
 """
-File: sq_corners_fractal.py
+File: square_corners_fractal.py
 Author: Wade Chao
 Dependencies: campy
 -----------------------------------

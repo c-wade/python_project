@@ -1,6 +1,7 @@
 """
 File: weather_master.py
 Author: Wade Chao
+Dependencies: Application.py
 -----------------------
 This program should implement a console program
 that asks weather data from user to compute the

@@ -1,6 +1,7 @@
 """
 File: huffman_encoding_ANS.py
 Author: Wade Chao
+Dependencies: ds.py
 -----------------------------------
 This program demonstrates the idea of zipping/unzipping
 through the algorithm of Huffman Encoding.

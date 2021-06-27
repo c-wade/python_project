@@ -1,8 +1,7 @@
 """
-File: babygraphicsgui.py
+File: babynames.py
 Author: Wade Chao
 Description: This program arrange the data for babygraphics.py
-Dependencies: tkinter
 ----------------------------------------
 SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by

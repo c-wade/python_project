@@ -1,6 +1,7 @@
 """
 File: hailstone.py
 Author: Wade Chao
+Dependencies: Application.py
 -----------------------
 This program should implement a console program that simulates
 the execution of the Hailstone sequence, defined by Douglas

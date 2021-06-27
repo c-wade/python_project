@@ -1,6 +1,7 @@
 """
 File: breakout.py
 Author: Wade Chao
+Dependencies: campy, breakoutgraphics.py
 ----------------------------------------
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by
