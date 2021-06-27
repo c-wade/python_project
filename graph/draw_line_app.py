@@ -1,8 +1,8 @@
 """
 File: draw_line_app.py
 Author: Wade Chao
+Dependencies: campy
 -------------------------
-** pip install campy **
 Click on the window to draw lines
 """
 from app import App

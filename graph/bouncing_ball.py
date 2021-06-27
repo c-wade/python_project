@@ -1,8 +1,8 @@
 """
 File: bouncing_ball.py
 Author: Wade Chao
+Dependencies: campy
 -------------------------
-** pip install campy **
 """
 
 from campy.graphics.gobjects import GOval

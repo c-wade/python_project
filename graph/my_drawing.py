@@ -1,8 +1,8 @@
 """
 File: my_drawing.py
 Author: Wade Chao
+Dependencies: campy
 ----------------------
-** pip install campy **
 Pixel art
 """
 

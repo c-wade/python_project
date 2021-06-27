@@ -2,9 +2,9 @@
 File: photoshop.py
 Author: Wade Chao
 Description: Remove people in the pictures and get pretty photos.
+Dependencies: SimpleImage, Pillow
 ----------------------------------------------
 !!IMPORTANT!!
-** pip install Pillow ** (used in simpleimage.py)
 To run the program, open the terminal and get to the directory of this folder, input:
 - Mac
 1. python3 photoshop.py clock-tower

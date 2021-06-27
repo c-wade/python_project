@@ -1,8 +1,8 @@
 """
 File: draw_line.py
 Author: Wade Chao
+Dependencies: campy
 -------------------------
-** pip install campy **
 Click on the window to draw lines
 """
 from campy.graphics.gobjects import GOval, GLine

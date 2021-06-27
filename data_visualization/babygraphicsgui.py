@@ -2,8 +2,8 @@
 File: babygraphicsgui.py
 Author: Wade Chao
 Description: This program create the gui for babygraphics.py
+Dependencies: tkinter
 ----------------------------------------
-** pip install tkinter **
 Stanford CS106AP Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Sonja Johnson-Yu, Kylie Jue, and Nick Bowman.

@@ -1,8 +1,8 @@
 """
 File: breakoutgraphics.py
 Author: Wade Chao
+Dependencies: campy
 ----------------------------------------
-** pip install campy **
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman, 

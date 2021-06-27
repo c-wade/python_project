@@ -4,7 +4,7 @@ Author: Wade Chao
 Overview:
     - Description: This program arranges the data of baby names ranking from 1900 to 2010
                    and displays the statistical data with line chart
-    - Packages: tkinter
+    - Dependencies: tkinter
     - Test input: Jennifer Lucy Wade
     - To test it: Enter the test input in the Names searching bar in the upper-left corner of the gui window
     - Data sources: https://www.ssa.gov/OACT/babynames/

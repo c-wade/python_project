@@ -1,8 +1,8 @@
 """
 File: blur.py
 Author: Wade Chao
+Dependencies: SimpleImage, Pillow
 -------------------------------
-** pip install Pillow ** (used in simpleimage.py)
 This file shows the original image first,
 smiley-face.png, and then compare to its
 blurred image. The blur algorithm uses the
