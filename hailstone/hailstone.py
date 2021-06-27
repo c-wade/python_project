@@ -1,11 +1,10 @@
 """
 File: hailstone.py
-Name:
+Author: Wade Chao
 -----------------------
 This program should implement a console program that simulates
 the execution of the Hailstone sequence, defined by Douglas
-Hofstadter. Output format should match what is shown in the sample
-run in the Assignment 2 Handout.
+Hofstadter.
 """
 from Application import Application
 

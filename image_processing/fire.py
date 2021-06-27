@@ -1,5 +1,7 @@
 """
 File: fire.py
+Author: Wade Chao
+Dependencies: SimpleImage, Pillow
 ---------------------------------
 This file contains a method called
 highlight_fires which detects the

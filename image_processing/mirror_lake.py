@@ -1,5 +1,7 @@
 """
 File: mirror_lake.py
+Author: Wade Chao
+Dependencies: SimpleImage, Pillow
 ----------------------------------
 This file reads in mt-rainier.jpg and
 makes a new image that creates a mirror

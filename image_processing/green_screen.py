@@ -1,5 +1,7 @@
 """
 File: green_screen.py
+Author: Wade Chao
+Dependencies: SimpleImage, Pillow
 -------------------------------
 This file creates a new image that uses
 MillenniumFalcon.png as background and

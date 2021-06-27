@@ -29,10 +29,18 @@ This repository holds some interesting simple programs with different topics lik
 - **breakout_game**  
   Breakout game.  
   [Demo Video](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing)  
+  
+
+- **caesar_cipher**  
+  Encrypt word or sentence.  
+  [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)  
+  [凱撒密碼](https://zh.wikipedia.org/wiki/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC)  
+  
 
 
 - **data_visualization**  
-  This program arranges the data of baby names ranking from 1900 to 2010 and displays the statistical data with line char  
+  This program arranges the data of baby names ranking from 1900 to 2010 
+  and displays the statistical data with line char  
   [Demo Video](https://drive.google.com/file/d/1P8nYnClraNfHXDeXxAwf59B3fniKoKIg/view?usp=sharing)
   Data sources: https://www.ssa.gov/OACT/babynames/
 
@@ -46,16 +54,46 @@ This repository holds some interesting simple programs with different topics lik
   - **bouncing_ball**: Bouncing ball simulator
   - **draw_line**: Click on canvas to draw lines
   - **draw_line_app**: Create a class to encapsulate the drawing (lines) feature
-  - **my_drawing**: Use campy to draw a Pixel Art picture
-    
+  - **my_drawing**: Use campy to draw a Pixel Art picture  
+
+
+- **hailstone**  
+  This program should implement a console program that simulates
+  the execution of the Hailstone sequence, defined by Douglas
+  Hofstadter.
+
+
+- **hangman_game**
+  [Demo Video](https://drive.google.com/file/d/1AtkL8MnjFDd_Kg6vYiNn3Lh41Ml2rjRy/view?usp=sharing)
   
+
 - **huffman_encoding**   
   This program demonstrates the idea of zipping & unzipping through the algorithm of Huffman Encoding.
 
 
 - **image_processing**  
-  - **blur**: Blur the image
-  - **pedestrian_removing**: Remove pedestrians in the photos [Demo Video](https://drive.google.com/file/d/1BMOBX9Eb5QkP5gfB4GcUWVEbEOaWmAhI/view?usp=sharing)
+  - **blur**:  
+    Blur the image
+    
+  - **fire**:  
+    This file contains a method called highlight_fires which detects the 
+    pixels that are recognized as fire and highlights them for better observation.  
+  
+  - **green_screen**:  
+    This program removes the green background of two pictures and merges them into one  
+    [Demo Video](https://drive.google.com/file/d/15njGxR2sIMNQ4ClMTGww27taTkEDm9o7/view?usp=sharing)
+    
+  - **mirror_lake**:  
+    This file reads in mt-rainier.jpg and makes a new image that creates a mirror
+    lake vibe by placing an inverse image of mt-rainier.jpg below the original one.
+  
+  - **pedestrian_removing**:  
+    Remove pedestrians in the photos  
+    [Demo Video](https://drive.google.com/file/d/1BMOBX9Eb5QkP5gfB4GcUWVEbEOaWmAhI/view?usp=sharing)
+  
+  - **shrink**  
+    Create a new "out" image half the width and height of the original.
+    Set pixels at x=0 1 2 3 in out, from x=0 2 4 6 in original, and likewise in the y direction.
 
 
 - **palindrome**  
@@ -76,6 +114,11 @@ This repository holds some interesting simple programs with different topics lik
 
 - **tree**  
   Introduce the basic concepts for binary trees.
+
+
+- **weather_master**  
+  This program should implement a console program that asks weather data from user to compute the
+  average, highest, lowest, cold days among the inputs.
 
 
 ***

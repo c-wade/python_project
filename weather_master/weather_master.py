@@ -1,13 +1,10 @@
 """
 File: weather_master.py
-Name:
+Author: Wade Chao
 -----------------------
 This program should implement a console program
 that asks weather data from user to compute the
 average, highest, lowest, cold days among the inputs.
-Output format should match what is shown in the sample
-run in the Assignment 2 Handout.
-
 """
 from Application import Application
 

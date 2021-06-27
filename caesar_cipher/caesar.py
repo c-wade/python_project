@@ -1,6 +1,6 @@
 """
 File: caesar.py
-Name:
+Author: Wade Chao
 ------------------------------
 This program demonstrates the idea of caesar cipher.
 Users will be asked to input a number to produce shifted

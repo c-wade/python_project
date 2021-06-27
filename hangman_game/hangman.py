@@ -1,6 +1,6 @@
 """
 File: hangman.py
-Name:
+Author: Wade Chao
 -----------------------------
 This program plays hangman game.
 Users sees a dashed word, trying to
