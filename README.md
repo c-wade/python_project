@@ -63,7 +63,7 @@ This repository holds some interesting simple programs with different topics lik
   Hofstadter.
 
 
-- **hangman_game**
+- **hangman_game**  
   [Demo Video](https://drive.google.com/file/d/1AtkL8MnjFDd_Kg6vYiNn3Lh41Ml2rjRy/view?usp=sharing)
   
 
