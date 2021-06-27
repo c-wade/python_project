@@ -118,7 +118,8 @@ This repository holds some interesting simple programs with different topics lik
 
 - **weather_master**  
   This program should implement a console program that asks weather data from user to compute the
-  average, highest, lowest, cold days among the inputs.
+  average, highest, lowest, cold days among the inputs.  
+  [Demo Video](https://drive.google.com/file/d/1llWBLXw5mLtMyvLlTxx518Q0OD4wEZ7b/view?usp=sharing)
 
 
 ***
