@@ -1,7 +1,8 @@
 """
 File: sq_corners_fractal.py
-Name:
+Author: Wade Chao
 -----------------------------------
+** pip install campy **
 This program draws a fractal with GRect on GWindow.
 Students will find it useful to understand the order
 of each recursive calls.

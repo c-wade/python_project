@@ -1,6 +1,6 @@
 """
 File: priority_queue_list.py
-Name:
+Author: Wade Chao
 ----------------------------------
 This program shows how to build a priority queue by
 using Python list. We will be discussing 3 different

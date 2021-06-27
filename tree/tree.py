@@ -1,6 +1,6 @@
 """
 File: tree.py
-Name: 
+Author: Wade Chao
 -------------------------
 This file shows the basic concepts for binary trees.
 After constructing a tree, we will do 3 traversal examples:

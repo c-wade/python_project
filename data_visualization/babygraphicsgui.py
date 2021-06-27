@@ -1,12 +1,15 @@
 """
+File: babygraphicsgui.py
+Author: Wade Chao
+Description: This program create the gui for babygraphics.py
+----------------------------------------
+** pip install tkinter **
 Stanford CS106AP Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Sonja Johnson-Yu, Kylie Jue, and Nick Bowman.
 
 This file defines the functions needed to create the GUI for
 the Baby Names project.
-
-You should not modify any of the contents of this file.
 """
 
 import tkinter

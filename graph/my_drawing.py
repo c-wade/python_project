@@ -1,8 +1,9 @@
 """
-File: 
-Name:
+File: my_drawing.py
+Author: Wade Chao
 ----------------------
-TODO:
+** pip install campy **
+Pixel art
 """
 
 from campy.graphics.gobjects import GOval, GRect, GPolygon, GLine

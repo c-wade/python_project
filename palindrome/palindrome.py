@@ -1,6 +1,6 @@
 """
 File: palindrome.py
-Name:
+Author: Wade Chao
 ----------------------------
 This program prints the answers of whether
 'madam', 'step on no pets', 'Q', 'pythonyp', and

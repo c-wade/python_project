@@ -1,6 +1,6 @@
 """
 File: largest_digit.py
-Name:
+Author: Wade Chao
 ----------------------------------
 This file recursively prints the biggest digit in
 5 different integers, 12345, 281, 6, -111, -9453

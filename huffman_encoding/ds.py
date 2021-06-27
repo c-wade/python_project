@@ -1,6 +1,6 @@
 """
 File: ds.py
-Name: Wade Chao
+Author: Wade Chao
 ------------------------------------
 This file shows all the data structures
 we built today, including Tree, ListNode, and

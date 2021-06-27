@@ -1,6 +1,6 @@
 """
 File: boggle.py
-Name:
+Author: Wade Chao
 ----------------------------------------
 test input:
 f y c l

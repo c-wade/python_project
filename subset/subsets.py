@@ -1,6 +1,6 @@
 """
 File: subsets.py
-Name:
+Author: Wade Chao
 -------------------------
 This file prints all the sub-lists on Console
 by calling a recursive function - list_sub_lists(lst).

@@ -1,7 +1,8 @@
 """
 File: sierpinski.py
-Name: 
+Author: Wade Chao
 ---------------------------
+** pip install campy **
 This file recursively prints the Sierpinski triangle on GWindow.
 The Sierpinski triangle is a fractal described in 1915 by Waclaw Sierpinski.
 It is a self similar structure that occurs at different levels of iterations.

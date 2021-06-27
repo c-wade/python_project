@@ -1,10 +1,11 @@
 """
+File: breakout.py
+Author: Wade Chao
+----------------------------------------
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
 and Jerry Liao.
-
-YOUR DESCRIPTION HERE
 """
 from breakoutgraphics import BreakoutGraphics
 

@@ -1,6 +1,6 @@
 """
 File: huffman_encoding_ANS.py
-Name: Wade Chao
+Author: Wade Chao
 -----------------------------------
 This program demonstrates the idea of zipping/unzipping
 through the algorithm of Huffman Encoding.

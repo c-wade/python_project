@@ -1,10 +1,12 @@
 """
+File: breakoutgraphics.py
+Author: Wade Chao
+----------------------------------------
+** pip install campy **
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman, 
 and Jerry Liao
-
-YOUR DESCRIPTION HERE
 """
 from time import time
 from campy.graphics.gwindow import GWindow

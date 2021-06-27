@@ -1,6 +1,6 @@
 """
 File: anagram.py
-Name:
+Author: Wade Chao
 ----------------------------------
 This program recursively finds all the anagram(s)
 for the word input by user and terminates when the
