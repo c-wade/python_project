@@ -1,7 +1,8 @@
 """
 File: blur.py
-Name: Wade Chao
+Author: Wade Chao
 -------------------------------
+** pip install Pillow ** (used in simpleimage.py)
 This file shows the original image first,
 smiley-face.png, and then compare to its
 blurred image. The blur algorithm uses the
@@ -9,6 +10,7 @@ average RGB values of a pixel's nearest neighbors
 """
 
 from simpleimage import SimpleImage
+BLUR_LEVEL = 5
 
 
 def blur(img):
@@ -41,7 +43,7 @@ def main():
     old_img.show()
 
     blurred_img = blur(old_img)
-    for i in range(5):
+    for i in range(BLUR_LEVEL):
         blurred_img = blur(blurred_img)
     blurred_img.show()
 
