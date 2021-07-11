@@ -13,6 +13,8 @@ import time
 
 # This is the file name of the dictionary txt file
 # we will be checking if a word exists by searching through it
+from typing import List
+
 FILE = 'dictionary.txt'
 ROWS = 4
 COLS = 4
@@ -36,7 +38,7 @@ def main():
     print(f'The speed of your boggle algorithm: {end - start} seconds.')
 
 
-def find_words() -> list[str]:
+def find_words():
     """
     Find words from Boggle letters if the words are in the dictionary
     :return: The words we found in Boggle letters
@@ -51,7 +53,7 @@ def find_words() -> list[str]:
 def find_words_helper(ans_list, current_str, cur_x, cur_y, prev_x, prev_y, cached_words):
     """
     A recursive helper to go through all letters in boggle and find words that are in the dictionary (DFS)
-    :param ans_list: list[str]: The list of words that we found
+    :param ans_list: List[str]: The list of words that we found
     :param current_str: str: The prefix of words that we should find
     :param cur_x: int: The row index of the current_str
     :param cur_y: The column index of the current_str
@@ -78,12 +80,12 @@ def find_words_helper(ans_list, current_str, cur_x, cur_y, prev_x, prev_y, cache
                 find_words_helper(ans_list, new_str, new_x, new_y, cur_x, cur_y, new_cache)
 
 
-def get_new_cache(sub_s: str, cache: list[str]) -> list[str]:
+def get_new_cache(sub_s: str, cache: List[str]) -> List[str]:
     """
     Get all words in the dictionary that start with prefix
     :param sub_s: str: Prefix of the word
-    :param cache: list[str]: The list of words in dictionary
-    :return: list[str]: The words that start with prefix
+    :param cache: List[str]: The list of words in dictionary
+    :return: List[str]: The words that start with prefix
     """
     lst = []
     for word in cache:
@@ -118,10 +120,10 @@ def set_boggle_letters() -> bool:
     return True
 
 
-def check_input(letters: list[str]) -> bool:
+def check_input(letters: List[str]) -> bool:
     """
     Check user input.
-    :param letters: list[str]: A list contains of four English characters
+    :param letters: List[str]: A list contains of four English characters
     :return: bool: True if input is legal, False if input is illegal
     """
     if len(letters) != COLS:
